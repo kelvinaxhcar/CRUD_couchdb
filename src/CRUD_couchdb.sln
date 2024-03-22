@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUD_couchdb", "CRUD_couchdb\CRUD_couchdb.csproj", "{8BD2A706-0B3B-454C-AA3E-F3947B2B2A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD_couchdb.Dominio", "CRUD_couchdb.Dominio\CRUD_couchdb.Dominio.csproj", "{08B322DD-D476-4F40-B6C7-591DBC552F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD2A706-0B3B-454C-AA3E-F3947B2B2A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD2A706-0B3B-454C-AA3E-F3947B2B2A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD2A706-0B3B-454C-AA3E-F3947B2B2A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD2A706-0B3B-454C-AA3E-F3947B2B2A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08B322DD-D476-4F40-B6C7-591DBC552F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08B322DD-D476-4F40-B6C7-591DBC552F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08B322DD-D476-4F40-B6C7-591DBC552F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08B322DD-D476-4F40-B6C7-591DBC552F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18F05E7A-5A01-41DD-8AB2-1296960CF649}
+	EndGlobalSection
+EndGlobal

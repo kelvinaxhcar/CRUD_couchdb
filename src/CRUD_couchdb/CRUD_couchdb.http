@@ -1,0 +1,6 @@
+@CRUD_couchdb_HostAddress = http://localhost:5264
+
+GET {{CRUD_couchdb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
