@@ -2,8 +2,11 @@
 
 namespace CRUD_couchdb.Dominio
 {
-    public class Produto : CouchDocument
-    {
-        public string Nome { get; set; }
+public class Produto : CouchDocument
+{
+    public string Nome {
+        get;
+        set;
     }
+}
 }
